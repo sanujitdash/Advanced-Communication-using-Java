@@ -10,4 +10,4 @@ Contains JAVA code for the following:
 8)Write a program to design a one-way communication from server to client using UDP client-server application.
 9)Write a program to design two-way communication using UDP Client-Server application.
 10)To write a server-client program in Java for chatting using UDP.
-11)To write a server-client program in Java for chatting using TCP.
+11)To write a server-client program in Java for chatting using TCP
