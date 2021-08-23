@@ -1,4 +1,5 @@
 # Advanced-Communication-using-Java
+See the PDF file for all the below mentioned Code.
 Contains JAVA code for the following:
 1)Write a program to find the IP address and host name of your system.
 2)Some basic java programs.
